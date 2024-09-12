@@ -36,6 +36,7 @@ The Voron bed models linked from the upstream readme work in PrusaSlicer as well
 
 * 2024-09-11:
   * Enabled "Extra perimeters if needed" to avoid gaps in sloping walls
+  * Set "Slicing resolution" to 0 to avoid slicing/perimeter bugs when painting objects for MMU printing.
 * 2024-07-06:
   * Updated profiles for PrusaSlicer 2.8.0
     * Enabled `chamber_temperature` and `chamber_minimal_temperature` settings
