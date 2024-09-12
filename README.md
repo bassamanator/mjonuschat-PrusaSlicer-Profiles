@@ -34,6 +34,8 @@ The Voron bed models linked from the upstream readme work in PrusaSlicer as well
 
 ## Changelog
 
+* 2024-09-11:
+  * Enabled "Extra perimeters if needed" to avoid gaps in sloping walls
 * 2024-07-06:
   * Updated profiles for PrusaSlicer 2.8.0
     * Enabled `chamber_temperature` and `chamber_minimal_temperature` settings
